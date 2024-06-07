@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p style="text-align: center;">
 <h1>GoogleCloudSkillsBoost-Generative-AI</h1>
-</div>
+</p>
 
 Fork from: [Source: GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 
